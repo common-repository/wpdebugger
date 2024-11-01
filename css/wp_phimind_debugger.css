@@ -1,0 +1,24 @@
+
+	/*ADMIN FORM*/
+	.wp_phimind_debugger_hidden{display:none;}
+	.wp_phimind_debugger_bold_red {color:#FF0000; font-weight:bold;}
+	.wp_phimind_debugger_bold_green {color:#33DD00; font-weight:bold;}
+	.wp_phimind_debugger_submenu {height:13px; float:left; font-size:11px; list-style:none outside none; padding:0; white-space:nowrap;}
+	.wp_phimind_debugger_submenu li {display:inline-block; margin:0; padding:4px; -moz-border-radius:4px 4px 0px 0px; border-spacing:0;	border-style:solid; border-width:1px 1px 0px 1px; border-color:#CCC;}
+	.wp_phimind_debugger_submenu li a {text-decoration:none;}
+	.wp_phimind_debugger_current_menu {font-weight:bold; background-color:#EEE;}
+	.wp_phimind_debugger_configuration_content_block {padding:10px; border:0px solid #CCC;}
+	.wp_phimind_debugger_configuration_content_blocks { border:1px solid #CCC; display:block; }
+
+	/*FAQ*/
+	.wp_phimind_debugger_faq_question {font-weight:bold; margin-bottom:3px; }
+	.wp_phimind_debugger_faq_answer { margin-bottom:15px;}
+
+	/*DEBUG FOOTER*/
+	.wp_phimind_debugger_main_table {width:750px; margin:0 auto; padding:10px; background:#DDDDDD; font-size: 12px;}
+	.wp_phimind_debugger_warning {width:100%; background:#FF0000; color:#FFFFFF; font-weight:bold; padding-top:10px; padding-bottom:10px; text-align:center}
+	.wp_phimind_debugger_main_table_section_header {font-weight:bold; text-align:left; padding:5px;}
+	.wp_phimind_debugger_data_table {width:100%; -webkit-border-vertical-spacing:0px; -webkit-border-horizontal-spacing:0px; }
+	.wp_phimind_debugger_data_table td {padding:5px !important; width: 100px; max-width:300px; text-align: left; border: 1px solid #FFFFFF; font-size:12px;}
+	.wp_phimind_debugger_data_table tr {color:black; background-color: #acf;}
+
